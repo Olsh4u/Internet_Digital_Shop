@@ -20,7 +20,7 @@ git clone https://github.com/Olsh4u/Internet_Digital_Shop.git
 ```
 -Перейдите в каталог проекта.
 ```
-cd your-project-directory
+cd Internet_Digital_Shop
 ```
 - Соберите проект с помощью Maven.
 ```
